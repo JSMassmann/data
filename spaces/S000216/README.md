@@ -1,5 +1,5 @@
 ---
-uid: S000215
+uid: S000216
 name: Ellentuck topology
 refs:
   - zb: "0546.03029"
